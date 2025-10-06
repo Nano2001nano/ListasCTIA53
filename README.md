@@ -36,3 +36,14 @@ assentos do teatro e o valor do ingresso. Depois calcule:
 - O valor que o teatro irá arrecadar caso a ocupação seja de 75%;
 - O valor que o hotel deixará de arrecadar com a promoção caso a
 ocupação seja de 100%.
+
+Desafio: Escreva um programa em Python que leia os valores de a, b e c de
+uma equação do 2º grau:
+● 𝑎𝑥
+2
++ 𝑏𝑥 + 𝑐 = 0
+● Calcule o delta Δ = 𝑏
+2 − 4𝑎𝑐
+Em seguida, as duas raízes da equação usando a fórmula de Bhaskara:
+● 𝑥 =− 𝑏±√Δ/2𝑎
+Dica: use apenas a operação de potência (**0.5) para calcular a raiz quadrada.
